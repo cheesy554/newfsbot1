@@ -11,8 +11,7 @@ This is Telegram Parmanent Files Store Bot by [..](https://github.com/looser88/n
 - You can also Do Force Sub to a Channel to allow access the Bot.
 - Save Multiple Files in Same Link. (Batch)
 
-### Demo Bot:
-<a href="https://t.me/MediasStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+
 
 ## Configs:
 - `API_ID` - Get this from [@TeleORG_Bot](https://t.me/TeleORG_Bot)
