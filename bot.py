@@ -388,7 +388,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 return
             except Exception:
                 await cmd.message.edit(
-                    text="Something went Wrong. Contact my [Support Group](https://t.me/Dot_serials_bot).",
+                    text="If any problem please contact our [Support Group](https://t.me/Dot_serials_bot).",
                     parse_mode="markdown",
                     disable_web_page_preview=True
                 )
