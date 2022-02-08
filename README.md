@@ -1,5 +1,5 @@
 # PyroFilesStoreBot
-This is Telegram Parmanent Files Store Bot by [@AbirHasan2005](https://github.com/AbirHasan2005).
+This is Telegram Parmanent Files Store Bot by [..](https://github.com/looser88/newfsbot).
 
 * **Language:** [Python3](https://www.python.org)
 * **Library:** [Pyrogram](https://docs.pyrogram.org)
@@ -56,7 +56,7 @@ banned_users - Get All Banned Users [Owner Only]
 ```
 
 ### Support Group:
-<a href="https://t.me/JoinOT"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/k"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Follow on:
 <p align="left">
