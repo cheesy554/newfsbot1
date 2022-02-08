@@ -32,9 +32,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @Dot_serials
 
-👥 **Support Group:** [Linux Repositories](https://t.me/Dot_serials_bot)
+👥 **Support Group:** [Bot link](https://t.me/Dot_serials_bot)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Dot_serials)
+📢 **Updates Channel:** [Support Channel](https://t.me/Dot_serials)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @Dot_serials
