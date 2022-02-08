@@ -55,19 +55,3 @@ unban_user - [user_id] Unban Any User [Owner Only]
 banned_users - Get All Banned Users [Owner Only]
 ```
 
-### Support Group:
-<a href="https://t.me/k"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-### Follow on:
-<p align="left">
-<a href="https://github.com/looser88/newfsbot"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p>
-<p align="left">
-<a href="https://twitter.com"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
-</p>
