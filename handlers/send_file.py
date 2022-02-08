@@ -10,7 +10,7 @@ from handlers.helpers import str_to_b64
 async def reply_forward(message: Message, file_id: int):
     try:
         await message.reply(
-            f"/n ** Here is our file. Enjoy ",
+            f"** Here is our file. Enjoy "/n,
             disable_web_page_preview=True, quote=True)
     except FloodWait as e:
         await asyncio.sleep(e.x)
