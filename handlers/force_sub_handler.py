@@ -69,15 +69,3 @@ async def handle_force_sub(bot: Client, cmd: Message):
         )
         return 200
     return 200
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
