@@ -52,7 +52,7 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
         )
         share_link = f"https://t.me/{Config.BOT_USERNAME}?start=Dot_{str_to_b64(str(SaveMessage.message_id))}"
         await editable.edit(
-            f"**Batch Files Stored in my Database!**\n\nHere is the Permanent Link of your files: {share_link} \n\n"
+            f"**Batch Files Stored in my Database!**\n\nHere is the Permanent Link of your files: **{share_link}** \n\n `{share_link}` \n `{share_link}` \n\n"
             f"Just Click the link to get your files!",
             parse_mode="Markdown",
             reply_markup=InlineKeyboardMarkup(
